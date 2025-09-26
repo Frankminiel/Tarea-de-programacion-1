@@ -1,0 +1,14 @@
+﻿using System;
+using System.Linq;
+using System.Runtime.CompilerServices;
+using Microsoft.VisualBasic;
+int edad = 20;
+double precio = 99.99;
+char inicial = 'F';
+string nombre = "Frank";
+bool esEstudiante = true;
+Console.WriteLine("Tiene la edad de: " + edad);
+Console.WriteLine("El producto cuesta: " + precio);
+Console.WriteLine("Su nombre empieza por la letra: " + inicial);
+Console.WriteLine("mi nombre es: " + nombre);
+Console.WriteLine("¿Es estudiante?: " + esEstudiante);
