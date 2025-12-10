@@ -1,4 +1,4 @@
-﻿using System;
+
 namespace Renta_de_Juegos.UI
 {
     public static class Visuals
@@ -57,4 +57,5 @@ namespace Renta_de_Juegos.UI
 
         }
     }
+
 }
